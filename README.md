@@ -8,6 +8,7 @@
 
 ## 🛠 Technologies used
 
+- JavaScript
 - HTML
 - CSS
 - Git e Github
